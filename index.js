@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = function(env, methods) {
-  if (typeof methods == 'String')
+  if (typeof methods == 'string')
     methods = [methods];
 
   for (var i = 0; i < methods.length; i++) {
