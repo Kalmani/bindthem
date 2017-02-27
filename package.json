@@ -1,6 +1,6 @@
 {
   "name": "bindthem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easiest way to bind ES6 Class methods (by using array of methods names)",
   "main": "index.js",
   "scripts": {
