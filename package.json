@@ -1,0 +1,27 @@
+{
+  "name": "bindthem",
+  "version": "0.0.1",
+  "description": "Easiest way to bind ES6 Class methods (by using array of methods names)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kalmani/bindthem.git"
+  },
+  "keywords": [
+    "bind",
+    "binding",
+    "ES6",
+    "class",
+    "autobind",
+    "auto"
+  ],
+  "author": "Florent Kolosowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalmani/bindthem/issues"
+  },
+  "homepage": "https://github.com/Kalmani/bindthem"
+}
